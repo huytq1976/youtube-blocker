@@ -1,17 +1,12 @@
 {
   "channels": [
-    "@CrashCourse",
-    "@TED",
-    "@NationalGeographic",
-    "@The Hanoi Chamomile",
-    "@Mr Dong - BAT DONG SAN TU TAM",
-    "@Tâm Sự Trader",
-    "@Thuận Capital #Shorts",
-    "@Đầu Tư Chứng Khoán Cùng Quang Dũng"
-
-
-
-
+    "CrashCourse",
+    "TED",
+    "National Geographic",
+    "The Hanoi Chamomile",
+    "Mr Dong - BAT DONG SAN TU TAM",
+    "Tâm Sự Trader",
+    "Thuận Capital #Shorts",
+    "Đầu Tư Chứng Khoán Cùng Quang Dũng"
   ]
-
 }
